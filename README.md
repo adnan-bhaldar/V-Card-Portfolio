@@ -1,15 +1,24 @@
-# V-Card - Personal portfolio
+<div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/V-Card-Portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/V-Card-Portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/V-Card-Portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
 
+  <br />
+  <br />
+
+  <h2 align="center">V-Card Portfolio</h2>
+
 V-Card is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <a href="https://adnan-bhaldar.github.io/V-Card-Portfolio/"><strong>➥ Live Demo</strong></a>
 
-## Demo
+</div>
+
+<br />
+
+## Demo Screeshots
 
 ![vCard Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 ![vCard Mobile Demo](./readme-images/mobile.png "Mobile Demo")
