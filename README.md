@@ -39,7 +39,7 @@ Linux and macOS:
 sudo git clone https://github.com/adnan-bhaldar/V-Card-Portfolio.git
 ```
 
-Windows:https://adnan-bhaldar.github.io/V-Card-Portfolio/
+Windows:
 
 ```bash
 git clone https://github.com/adnan-bhaldar/V-Card-Portfolio.git
