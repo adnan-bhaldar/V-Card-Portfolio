@@ -12,7 +12,7 @@
 
 V-Card is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://adnan-bhaldar.github.io/V-Card-Portfolio/"><strong>➥ Live Demo</strong></a>
+<a href="https://adnan-bhaldar.github.io/V-Card-Portfolio/" "_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
